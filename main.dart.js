@@ -49657,7 +49657,7 @@ M(a,b){var s,r=null,q=new A.Lb($,new A.yO(A.a([],t.tO),new A.qL(),new A.qL(),new
 q.fv$=p
 q.fw$=new A.JC(A.aE(t.Ff))
 p=t.z
-s=A.agn(A.aM(["deviceTpe","web"],t.N,p))
+s=A.agn(A.aM(["deviceType","web"],t.N,p))
 s.a="GET"
 return new A.t0(new A.pc(B.GG,new A.FM(r,r,1/0,56),r),A.K9(new A.mo(q.vn(0,"https://www.turtleguru.com/dev_env/roles",r,r,s,r,p),new A.Oo(),r,t.wX),r,r),r)}}
 A.Oo.prototype={
